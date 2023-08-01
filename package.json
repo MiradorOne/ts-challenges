@@ -1,0 +1,13 @@
+{
+  "name": "ts-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "MiradorOne",
+  "license": "ISC",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
